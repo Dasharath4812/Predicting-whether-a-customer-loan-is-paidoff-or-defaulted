@@ -1,4 +1,4 @@
-# Predicting-whether-a-customer-loan-is-paidoof-or-deaulted
+# Predicting-whether-a-customer-loan-is-paidoff-or-deaulted
 
 
 In this notebook we try to practice all the classification algorithms that we learned in this course.
